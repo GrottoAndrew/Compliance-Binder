@@ -1,0 +1,116 @@
+SPDX-License-Identifier: IG-Demo-1.1
+
+# IRON GROTTO DEMO SOFTWARE LICENSE (Limited Permissive License v1.1)
+# Copyright © [Year] Iron Grotto LLC. All rights reserved.
+
+Permission is granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the “Software”), to use, copy,
+modify, and merge the Software for internal evaluation and demonstration
+purposes only within Licensee and its Affiliates, subject to the following
+conditions and definitions.
+
+## 1. Definitions
+**Affiliate** means any entity controlling, controlled by, or under common
+control with a party, where “control” means direct or indirect ownership of at
+least 50 percent of the voting interest.  
+**Authorized Users** means Licensee’s employees and contractors under written
+confidentiality obligations.  
+**Commercial Use** means any use that generates revenue or is performed for or
+on behalf of a third party, including consulting, compliance, or SaaS
+activities.  
+**Competing Software** means software that provides substantially similar
+functionality, purpose, or value to the Software, including but not limited to
+compliance-automation, regulatory-document-generation, or cloud-provisioning
+tools.  
+**Demo Version** means the version of the Software identified in the repository
+tag, release, or `/demo/` directory.
+
+## 2. Grant of Rights
+Subject to compliance with this License, Iron Grotto LLC (“Licensor”) grants
+Licensee a non-exclusive, non-transferable, non-sublicensable license to use,
+copy, modify, and merge the Demo Version of the Software internally within
+Licensee and its Affiliates for evaluation and demonstration purposes only.
+
+## 3. Restrictions
+Licensee shall not:
+a. Use the Software or any derivative for any Commercial Use outside Licensee
+or its Affiliates.  
+b. Create or distribute any derivative work or product that competes with,
+substitutes, or materially overlaps the Software or any commercial version.  
+c. Offer the Software or any portion as part of a consulting, compliance, or
+software-as-a-service product available to external clients or the public.  
+d. Redistribute, publish, or open-source any internal modifications without
+Licensor’s written consent.
+
+## 4. Commercial Use and Custom Versions
+Commercial Use or deployment of non-demo versions requires a separate written
+commercial license issued by Iron Grotto LLC. No rights herein extend to such
+versions.
+
+## 5. Patent License and Retaliation
+Licensor grants Licensee a non-transferable, non-sublicensable,
+internal-use-only license under Licensor’s patent rights covering the Software
+solely to exercise the rights granted in Section 2. This license terminates if
+Licensee or its Affiliate asserts a patent claim against Licensor or any user
+of the Software alleging that the Software infringes a patent.
+
+## 6. Termination and Cure
+This License terminates automatically for any willful or material breach of
+Sections 3 or 5. For other breaches, Licensor shall give written notice, and
+the License terminates if the breach is not cured within 10 days. Upon
+termination, Licensee must destroy all copies and derivatives.
+
+## 7. Confidentiality
+Internal modifications or integrations of the Software are confidential and may
+be shared only with Authorized Users. Licensee shall prevent any unauthorized
+disclosure or distribution of such internal versions to third parties.
+
+## 8. Trademark Reservation
+“Iron Grotto” and associated marks remain the exclusive property of Iron Grotto
+LLC. No right is granted to use the name or logos in marketing or derivative
+works.
+
+## 9. Third-Party Components
+Third-party code bundled with or referenced by the Software remains under its
+own licenses as listed in `THIRD_PARTY_NOTICES`. This License applies only to
+materials owned by Iron Grotto LLC.
+
+## 10. No Warranty
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## 11. Legal Use Disclaimer
+Use of the Software does not constitute or substitute for legal counsel. The
+Software and documentation are not attorney work product. Any use for
+compliance, practice of law, or regulatory filings is at Licensee’s sole risk
+and waiver of reliance on the Software as legal advice.
+
+## 12. Indemnity and Liability Cap
+Licensee shall indemnify and hold harmless Iron Grotto LLC from any claim or
+loss arising from Licensee’s violation of this License or unauthorized
+Commercial Use. Licensor’s aggregate liability shall not exceed USD $100 where
+such limitation is legally permitted.
+
+## 13. Export Control and Compliance
+Licensee shall comply with all applicable export-control and sanctions laws of
+the United States and other jurisdictions.
+
+## 14. Governing Law and Venue
+This License is governed by and construed under the laws of the State of New
+York, without regard to conflict of laws principles. Exclusive venue for any
+action arising hereunder shall be the state and federal courts located in New
+York County, New York.
+
+## 15. Boilerplate
+If any provision is found unenforceable, the remainder shall remain in effect.
+No waiver is valid unless in writing. This License is the entire agreement
+concerning the Demo Version and supersedes all prior understandings.
+Licensee may not assign this License without Licensor’s consent; Licensor may
+assign to a successor entity without restriction.
+
+# END OF TERMS
