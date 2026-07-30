@@ -19,9 +19,7 @@ confidentiality obligations.
 on behalf of a third party, including consulting, compliance, or SaaS
 activities.  
 **Competing Software** means software that provides substantially similar
-functionality, purpose, or value to the Software, including but not limited to
-compliance-automation, regulatory-document-generation, or cloud-provisioning
-tools.  
+functionality, purpose, or value to the Software.
 **Demo Version** means the version of the Software identified in the repository
 tag, release, or `/demo/` directory.
 
